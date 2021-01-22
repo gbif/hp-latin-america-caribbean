@@ -1,6 +1,6 @@
 ---
 lang-ref: about
-title: About
+title: Bienvenidos al portal de nodos de América Latina y el Caribe
 description: Lorem markdownum spatium limes indefessus neque at orat aestuat
 background: /assets/images/moss.jpg
 imageLicense: |
