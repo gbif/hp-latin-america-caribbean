@@ -1,5 +1,16 @@
 en:
   label: English
   icon:  # optional
-da:
-  label: Dansk
+  logo: /assets/images/LA-GBIF-en.svg
+es:
+  label: Español
+  icon:  # optional
+  logo: /assets/images/LA-GBIF-es.svg
+fr:
+  label: Français
+  icon:  # optional
+  logo: /assets/images/LA-GBIF-fr.svg
+pr:
+  label: Français
+  icon:  # optional
+  logo: /assets/images/LA-GBIF-por.svg
