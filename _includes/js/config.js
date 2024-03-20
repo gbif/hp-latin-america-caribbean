@@ -19,7 +19,7 @@ var siteConfig = {
         {
           "type": "in",
           "key": "country",
-          "values": ["AR", "BR", "CO", "EC", "MX", "UY", "PE"]
+          "values": ["AR", "BR", "CO", "EC", "GT", "MX", "SR", "UY", "PE"]
         },
         {
           "type": "equals",
