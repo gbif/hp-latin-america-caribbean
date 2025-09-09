@@ -4,7 +4,7 @@
 
 # GBIF Hosted Portal: hp-latin-america-caribbean
 
-This Jekyll website, **[hp-latin-america-caribbean](https://hp-latin-america-caribbean.gbif.org/)**, makes use of a theme and biodiversity widgets developed by the GBIF network.
+This Jekyll website, **[hp-latin-america-caribbean](https://latin-america-caribbean.hp.gbif.org/)**, makes use of a theme and biodiversity widgets developed by the GBIF network.
 
 You can find information on editing this site and more on [gbif/hosted-portals](https://github.com/gbif/hosted-portals)
 
